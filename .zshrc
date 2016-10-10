@@ -83,7 +83,7 @@ fi
 # Example aliases
 alias zshconfig="subl $HOME/.zshrc"
 alias ohmyzsh="subl $HOME/.oh-my-zsh"
-alias dotfiles="subl $HOME/.dotfiles"
+alias dco="docker-compose"
 
 ######################################################################
 # PATH SETTINGS                                                      #
