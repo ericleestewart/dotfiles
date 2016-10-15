@@ -88,6 +88,7 @@ alias ohmyzsh="subl $HOME/.oh-my-zsh"
 # ALIASES                                                            #
 ######################################################################
 
+alias dck="docker"
 alias dco="docker-compose"
 alias gst="git status"
 
