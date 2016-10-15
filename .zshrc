@@ -95,12 +95,6 @@ then
     export PATH=$PATH:$HOME/bin
 fi
 
-# Add my scripts path first.
-if [ -d $HOME/Dropbox/Scripts ];
-then
-    export PATH=$PATH:$HOME/Dropbox/Scripts
-fi
-
 # Add /usr/local/sbin ahead of system paths (Homebrew)
 if [ -d /usr/local/sbin ];
 then
