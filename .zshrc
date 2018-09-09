@@ -91,6 +91,7 @@ alias ohmyzsh="subl $HOME/.oh-my-zsh"
 alias dck="docker"
 alias dco="docker-compose"
 alias gst="git status"
+alias ll="ls -lha"
 
 ######################################################################
 # PATH SETTINGS                                                      #
